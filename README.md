@@ -1,1 +1,5 @@
-# Raketest_S2_D0
+Le 08/10/18
+
+Exercices sur le TDD
+
+Travail réalisé par Hava et Corentin.
